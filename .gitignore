@@ -3,3 +3,5 @@ dist/
 node_modules/
 work/
 .DS_Store
+.env*
+!.env.example
